@@ -10,7 +10,8 @@ I'm Kimberly, a research assistant with experience in environmental projects, mu
 ### 🛠️ Tech Stack
 ![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=mysql)
 ![Python](https://img.shields.io/badge/-Python-000?&logo=python)
-
+![ArcGIS](https://img.shields.io/badge/-ArcGIS-000?&logo=arcgis)
+![Power BI](https://img.shields.io/badge/-Power%20BI-000?&logo=powerbi)
 
 ### 📊 GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
